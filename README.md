@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashish1Mishra0
 - 👀 I’m interested in Cyber Security And Programming
-- 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
